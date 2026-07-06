@@ -3,7 +3,7 @@
 A real-time face analysis application using computer vision and deep learning. This Python application uses your webcam to detect faces and predict:
 
 - **Age** (9 age ranges from 0-2 to 70+)
-- **Gender** (Male/Female)
+- **Gender** (Male/Female) 
 - **Race/Ethnicity** (7 categories)
 - **Emotion** (7 emotions via FER library)
 
