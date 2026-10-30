@@ -130,6 +130,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [FER](https://github.com/justinshenk/fer) - Facial expression recognition
 - [OpenCV](https://opencv.org/) - Computer vision library
 
+Authors:
+Sidhartha Kedlaya,Hiten T,Harsha and Harshal S.
+
 ## ⚠️ Disclaimer
 
 This tool is for educational and research purposes. Face analysis predictions are estimates and may not always be accurate. Please use responsibly and be aware of privacy implications when analyzing faces.
